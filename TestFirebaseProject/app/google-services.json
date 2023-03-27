@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36136022895",
+    "project_id": "projectmesa-9e080",
+    "storage_bucket": "projectmesa-9e080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36136022895:android:db33455c3b691a5e736e9a",
+        "android_client_info": {
+          "package_name": "com.alex.testfirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36136022895-5pb42l1ldc4cljl5cprsq5b8ougj64pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZu_fd_kh1W2eqwgUK84GL3691pPdkwOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36136022895-5pb42l1ldc4cljl5cprsq5b8ougj64pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
